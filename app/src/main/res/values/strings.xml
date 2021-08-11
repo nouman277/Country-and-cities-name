@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"> Countries And Its Cities </string>
+    <string name="btnPak">PAKISTAN</string>
+    <string name="btnInd">INDIA</string>
+    <string name="btnChi">CHINA</string>
+    <string name="isl">ISLAMABAD</string>
+    <string name="lhr">LAHORE</string>
+    <string name="kar">KARACHI</string>
+    <string name="del">NEW DELHI</string>
+    <string name="mub">MUMBAI</string>
+    <string name="goa">GOA</string>
+    <string name="bei">BEIJING</string>
+    <string name="sha">SHANGHAI</string>
+    <string name="she">SHENZHEN</string>
+    <string name="btnBackPak">BACK TO PAKISTAN</string>
+    <string name="btnBackInd">BACK TO INDIA</string>
+    <string name="btnBackChi">BACK TO CHINA</string>
+
+</resources>
